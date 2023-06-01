@@ -1,0 +1,14 @@
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: lightblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
